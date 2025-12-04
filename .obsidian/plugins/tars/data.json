@@ -1,0 +1,73 @@
+{
+  "editorStatus": {
+    "isTextInserting": false
+  },
+  "providers": [
+    {
+      "tag": "Doubao",
+      "vendor": "Doubao",
+      "options": {
+        "apiKey": "018f5319-3f5e-465f-8829-78fa08658d01",
+        "baseURL": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
+        "model": "",
+        "parameters": {
+          "model": "ep-20251007170621-8dzpt"
+        }
+      }
+    },
+    {
+      "tag": "DeepSeek",
+      "vendor": "DeepSeek",
+      "options": {
+        "apiKey": "",
+        "baseURL": "https://api.deepseek.com",
+        "model": "deepseek-chat",
+        "parameters": {}
+      }
+    },
+    {
+      "tag": "Claude",
+      "vendor": "Claude",
+      "options": {
+        "apiKey": "",
+        "baseURL": "https://api.anthropic.com",
+        "model": "claude-sonnet-4-0",
+        "max_tokens": 8192,
+        "enableWebSearch": false,
+        "enableThinking": false,
+        "budget_tokens": 1600,
+        "parameters": {}
+      }
+    }
+  ],
+  "systemTags": [
+    "System",
+    "系统"
+  ],
+  "newChatTags": [
+    "NewChat",
+    "新对话"
+  ],
+  "userTags": [
+    "User",
+    "我"
+  ],
+  "roleEmojis": {
+    "assistant": "✨",
+    "system": "🔧",
+    "newChat": "🚀",
+    "user": "💬"
+  },
+  "promptTemplates": [],
+  "enableInternalLink": true,
+  "enableInternalLinkForAssistantMsg": false,
+  "answerDelayInMilliseconds": 2000,
+  "confirmRegenerate": true,
+  "enableTagSuggest": true,
+  "tagSuggestMaxLineLength": 22,
+  "enableExportToJSONL": false,
+  "enableReplaceTag": false,
+  "enableDefaultSystemMsg": false,
+  "defaultSystemMsg": "",
+  "enableStreamLog": false
+}

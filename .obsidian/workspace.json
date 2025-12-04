@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "6983b37f78f197f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1132826b03e77e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca7cc4153086cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电力市场/储能.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "储能"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c52d17f28fc6e9f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "db83d70c0e63ea9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37579b04dedda4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3b20eab9b626cf0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eaaaa67a808e1db6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79e01b4a2123bfab",
+    "type": "split",
+    "children": [
+      {
+        "id": "7caa9dbf13143e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c97b41597ce242e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "毕设/构网型储能.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "构网型储能 的反向链接列表"
+            }
+          },
+          {
+            "id": "8322692cd7fdaee7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "毕设/构网型储能.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "构网型储能 的出链列表"
+            }
+          },
+          {
+            "id": "1ae0281fb356f44f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f515899cd059882d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电力市场/报价与竞价.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "报价与竞价 的大纲"
+            }
+          },
+          {
+            "id": "39f4838269f9beb3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "b23a273105fd1de6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-kanban:创建新看板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b23a273105fd1de6",
+  "lastOpenFiles": [
+    "readmetxt.txt",
+    "新建 文本文档.txt",
+    "毕设/毕设想法.md",
+    "电力市场/储能.md",
+    "电力市场/电价与电费.md",
+    "结算机制/参考资料与分析.md",
+    "电力市场/报价与竞价.md",
+    "电力市场/结算.md",
+    "电力市场/清单.md",
+    "结算机制/attachments/image-6.png",
+    "结算机制/attachments/image-5.png",
+    "结算机制/attachments/image-4.png",
+    "电力市场/市场主体.md",
+    "电力交易大赛/未命名.md",
+    "未命名 1.base",
+    "未命名.base",
+    "电力市场/attachments/image-16.png",
+    "电力市场/attachments/image-15.png",
+    "电力市场/attachments/image-14.png",
+    "电力市场/attachments/image-13.png",
+    "电力市场/attachments/image-12.png",
+    "电力市场/attachments/image-11.png",
+    "结算机制/attachments/image-3.png",
+    "结算机制/attachments/附件1-江苏分布式新能源聚合参与省内绿电市场交易实施方案（V2版）.pdf",
+    "电力市场/市场交易类型.md",
+    "结算机制/attachments",
+    "结算机制",
+    "智信能科/20251107交流会.md",
+    "调研问题.md",
+    "智信能科/attachments/华科课题合作方向梳理.docx",
+    "智信能科/attachments",
+    "电力市场/调峰调频.md",
+    "智信能科",
+    "5G基站/调峰调频.md",
+    "毕设/构网型储能.md",
+    "5G基站/代码数据和参数.md",
+    "任务清单.md",
+    "仿真测算.md",
+    "华中区域虚拟电厂参与电网运行的经济调控策略与协同机制研究/讲稿.md",
+    "未命名 4.base",
+    "电力市场/电阻、电容、电感.md",
+    "电力市场/有功无功功率.md",
+    "华中区域虚拟电厂参与电网运行的经济调控策略与协同机制研究/省调调研PPT.md",
+    "电力市场/省间交易.md",
+    "日记/2025-07-08.md",
+    "组会/2025-09-01.md"
+  ]
+}
