@@ -1,0 +1,8 @@
+{
+  "path": "Habit",
+  "daysToShow": 13,
+  "debug": false,
+  "matchLineLength": true,
+  "defaultColor": "",
+  "showStreaks": true
+}

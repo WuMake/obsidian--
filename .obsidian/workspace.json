@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕设/基于多任务概率预测与自适应损失权重的电-碳耦合感知模型.md",
+                "file": "工具/工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于多任务概率预测与自适应损失权重的电-碳耦合感知模型"
-            }
-          },
-          {
-            "id": "70d2581b5ef579f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYQ/BSCS（电池换-充电系统）中的不确定性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BSCS（电池换-充电系统）中的不确定性"
+              "title": "工具"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "水电",
+                "query": "无功",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,12 +73,22 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "54611408375f9c68",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "right": {
     "id": "79e01b4a2123bfab",
@@ -194,9 +190,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "bases:创建新数据库": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -204,56 +200,58 @@
       "obsidian-memos:Thino": false,
       "obsidian-kanban:创建新看板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "b23a273105fd1de6",
+  "active": "5c6a69d5a41bb7ee",
   "lastOpenFiles": [
+    "未命名.base",
+    "工具/工具.md",
+    "电力市场/电力政策/发改价格〔2026〕114号——关于完善发电侧容量电价机制的通知.md",
+    "工具",
+    "电力市场/电力政策/1710号文——关于促进电网高质量发展的指导意见.md",
+    "电力市场/基本概念/市场交易类型.md",
+    "电力市场/基本概念/结算.md",
+    "电力市场/基本概念/国家政策.md",
+    "电力市场/基本概念/电阻、电容、电感.md",
+    "电力市场/电网架构/电压等级.md",
+    "电力市场/基本概念/有功无功功率.md",
+    "2025/华中区域虚拟电厂参与电网运行的经济调控策略与协同机制研究/attachments/~$电厂架构下多5G基站群微网备电策略优化研究.docx",
     "毕设/构网型储能.md",
-    "毕设/思路讲稿V1.0.md",
+    "电力市场/基本概念/储能.md",
+    "电力市场/电网架构/attachments/52f2c85490d14635e1fb5b23c7e630cd.jpg",
+    "电力市场/电网架构/attachments/688a9b7d0a689d7d19466b74257b29f7.png",
+    "电力市场/电网架构/attachments",
     "毕设/基于多任务概率预测与自适应损失权重的电-碳耦合感知模型.md",
-    "毕设/毕设想法.md",
+    "2025/结算机制/0926调研会.md",
+    "2026",
     "SYQ/BSCS（电池换-充电系统）中的不确定性.md",
-    "毕设/涉及概念/边际碳排放强度.md",
-    "组会/20251230杨馨玥学姐交流.md",
-    "毕设/涉及概念",
-    "詹老师交流/交流议题.md",
-    "SYQ/attachments/1-s2.0-S0360544224015883-main.pdf",
-    "结算机制/参考资料与分析.md",
-    "SYQ/attachments",
-    "SYQ",
-    "组会/attachments/~$C调试问题总结汇报鲍导师.docx",
-    "组会/attachments/AGC调试问题总结汇报鲍导师.docx",
-    "组会/attachments",
-    "智信储能项目/20251230交流会.md",
-    "电力市场/市场主体.md",
-    "电力市场/市场交易类型.md",
-    "智信储能项目/20251208项目讨论会.md",
-    "智信储能项目/20251107交流会.md",
+    "其他",
+    "电力市场/未命名.canvas",
+    "2024",
+    "2025",
+    "电力市场/电网架构",
+    "电力市场/基本概念",
+    "Habit",
+    "电力市场/未命名.md",
+    "其他/詹老师交流/讲稿0116.md",
+    "其他/詹老师交流/讲稿0115.md",
+    "其他/詹老师交流/讲稿.md",
+    "毕设/毕设想法.md",
+    "2025/华中区域虚拟电厂参与电网运行的经济调控策略与协同机制研究/报奖讲稿.md",
+    "电力市场/政策.md",
+    "其他/组会/2026011024级MBA王亭文学姐交流.md",
+    "电力市场/基本概念/问题.md",
+    "电力市场/基本概念/市场主体.md",
+    "其他/组会/attachments/image.png",
+    "毕设/attachments/NotebookLM Mind Map (1).png",
+    "毕设/思路讲稿V1.0.md",
     "attachments/image.png",
-    "合同要求.md",
-    "组会/横向项目成果.md",
-    "电力市场/省间交易.md",
-    "电力市场/问题.md",
     "电力市场/attachments/9579f070b468953cca457b5ba133dda1.jpg",
     "电力市场/attachments/b31e51057d76fa4e29155ab398c842da.jpg",
     "电力市场/attachments/eb38d87d742eb675e3c1b89370bd3cbe.jpg",
-    "组会/AI工具使用.md",
-    "结算机制/20251218.md",
-    "未命名.base",
-    "毕设/电动汽车/超级充电站.md",
-    "毕设/电动汽车",
-    "电力市场/储能.md",
-    "电力市场/报价与竞价.md",
-    "电力市场/结算.md",
-    "电力市场/国家政策.md",
-    "电力市场/清单.md",
     "电力市场/attachments/image-27.png",
-    "电力市场/attachments/image-26.png",
-    "电力市场/attachments/image-25.png",
-    "电力市场/attachments/image-24.png",
-    "电力市场/attachments/image-23.png",
-    "詹老师交流",
-    "电力市场/attachments/image-22.png"
+    "电力市场/attachments/image-26.png"
   ]
 }
